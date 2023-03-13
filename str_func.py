@@ -14,3 +14,15 @@ def str_title(text):
     :return: text title
     """
     return text.title()
+
+
+def str_lower(text):
+    """
+    Каждое слово с большой буквы
+    :param text: any text
+    :return: text title
+    """
+    return text.lower()
+    
+
+
