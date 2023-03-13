@@ -23,4 +23,5 @@ def str_lower(text):
     :return: text title
     """
     return text.lower()
+    
 
