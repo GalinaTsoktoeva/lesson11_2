@@ -4,6 +4,7 @@ def str_upper(text):
     :param text:
     :return:
     """
+    # egit bag
     return text.upper()
 
 
