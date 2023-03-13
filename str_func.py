@@ -1,5 +1,6 @@
 def str_upper(text):
-    """переводит текст в верхний регистр
+    """
+    переводит текст в верхний регистр
     :param text:
     :return:
     """
@@ -23,4 +24,5 @@ def str_lower(text):
     """
     return text.lower()
     
+
 
